@@ -1,11 +1,16 @@
 # Hello,I am Lijo
-Linkedin profile
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/yourprofile/)
 
-## Brief intro
+## Brief introduction about me
 
  I am a passionate IT professional with over 8 years of experience as System Administrator. The world of cybersecurity has really amazed me how it looks for precise details to secure, defend and protect the data So I thought of using my strong troubleshooting skills and my passion for technology would like to capture the world of cybersecurity(sounds crazy)..
 
 ## Objective
-My journey as a system administrator by being updated all the time have developed a passion for cybersecurity and I am eager to transition into the world of cybersecurity. Specifically aiming for the first stepping stone as cybersecurity analyst.
+This repo is created to showcase my projects\tasks I have accomplished. Specifically its a stepping stone to cybersecurity for me.
 
-The repo is basically my own home lab projects
+## Skills
+
+| Skill               | Associated Project |
+|---------------------|--------------------|
+|Powershell Script |                    |
+

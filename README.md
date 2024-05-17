@@ -8,9 +8,18 @@
 ## Objective
 This repo is created to showcase my projects\tasks I have accomplished. Specifically its a stepping stone to cybersecurity for me.
 
-## Skills
+## Tools
 
-| Skill               | Associated Project |
-|---------------------|--------------------|
-|Powershell Script |                    |
+### Network tools
+[![Wireshark](https://img.shields.io/badge/Wireshark-Protocol%20Analyzer-blue?logo=wireshark&style=flat-square)](https://www.wireshark.org/)
+[![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-blue?logo=nmap&style=flat-square)](https://nmap.org/)
+
+### SIEM tools
+[![Splunk](https://img.shields.io/badge/Splunk-green?logo=splunk&style=flat-square)](https://www.splunk.com/)
+
+### Vulnerability scanner tools
+[![Tenable Nessus](https://img.shields.io/badge/Tenable%20Nessus-Vulnerability%20Scanner-darkblue?logo=tenable&style=flat-square)](https://www.tenable.com/products/nessus)
+
+
+
 

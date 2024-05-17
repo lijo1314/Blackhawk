@@ -1,5 +1,5 @@
 # Hello,I am Lijo
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/lijo-george-62b0b18a/)
 
 ## Brief introduction about me
 

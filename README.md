@@ -28,7 +28,6 @@ This repo is created to showcase my projects\tasks I have accomplished. Specific
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&style=flat-square)](https://www.comptia.org/certifications/security)
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?logo=amazonaws&style=flat-square)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-[![JumpCloud Core Certification](https://img.shields.io/badge/Jumpcloud-Core-Certification-blue?style=flat-square)](https://university.jumpcloud.com/pages/get-jumpcloud-certified)
 [![Powershell](https://img.shields.io/badge/Powershell-Scripting-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/learning/certificates/41fa623244c97502da1817a5501a920442cfe949925c0d1ab4bfd4386445f208?trk=backfilled_certificate)
 
 

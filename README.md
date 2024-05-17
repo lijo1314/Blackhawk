@@ -28,8 +28,8 @@ This repo is created to showcase my projects\tasks I have accomplished. Specific
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&style=flat-square)](https://www.comptia.org/certifications/security)
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?logo=amazonaws&style=flat-square)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-[![CCNA](https://img.shields.io/badge/CCNA-Certified-ff6600?logo=cisco&style=flat-square)](Certification_URL)
-[![CCNP](https://img.shields.io/badge/CCNP-Certified-ff6600?logo=cisco&style=flat-square)](Certification_URL)
+[![CCNA](https://img.shields.io/badge/CCNA-Certified-008080?logo=cisco&style=flat-square)](Certification_URL)
+[![CCNP](https://img.shields.io/badge/CCNP-Certified-008080?logo=cisco&style=flat-square)](Certification_URL)
 
 
 

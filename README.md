@@ -32,6 +32,14 @@ This repo is created to showcase my projects\tasks I have accomplished. Specific
 [![CCNP](https://img.shields.io/badge/CCNP-Certified-008080?logo=cisco&style=flat-square)](Certification_URL)
 
 
+## Scipting Language
+| Language | Associated projects |
+|----------|---------------------|
+|Python|<a href="https://replit.com/@lijo1314">Python Projects</a>|
+| Powershell|     |
+|Bash |     |
+
+
 
 
 

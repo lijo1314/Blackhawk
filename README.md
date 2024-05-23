@@ -13,6 +13,7 @@ This repo is created to showcase my projects\tasks I have accomplished. Specific
 ### Network tools
 [![Wireshark](https://img.shields.io/badge/Wireshark-Protocol%20Analyzer-blue?logo=wireshark&style=flat-square)](https://www.wireshark.org/)
 [![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-blue?logo=nmap&style=flat-square)](https://nmap.org/)
+[![Shodan](https://img.shields.io/badge/Shodan-orange?logo=shodan&style=flat-square)](https://shodan.io/)
 
 ### SIEM tools
 [![Splunk](https://img.shields.io/badge/Splunk-green?logo=splunk&style=flat-square)](https://www.splunk.com/)

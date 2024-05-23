@@ -17,6 +17,10 @@ This repo is created to showcase my projects\tasks I have accomplished. Specific
 ### SIEM tools
 [![Splunk](https://img.shields.io/badge/Splunk-green?logo=splunk&style=flat-square)](https://www.splunk.com/)
 
+|Project| Skills | Tools | OS | Link|
+|-------|---------|------|------|------|
+|Building a SIEM| Log Mangagement, Monitoring | Splunk |  Linux Mint cinnamon |     |
+
 ### Vulnerability scanner tools
 [![Tenable Nessus](https://img.shields.io/badge/Tenable%20Nessus-Vulnerability%20Scanner-darkblue?logo=tenable&style=flat-square)](https://www.tenable.com/products/nessus)
 

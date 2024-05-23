@@ -36,7 +36,7 @@ This repo is created to showcase my projects\tasks I have accomplished. Specific
 | Language | Associated projects |
 |----------|---------------------|
 |Python|<a href="https://replit.com/@lijo1314">Python Projects</a>|
-| Powershell & Bash|<a href="https://replit.com/@lijo1314">Powershell & Bash Projects</a>|
+| Powershell & Bash|<a href="https://github.com/lijo1314/myprojects">Powershell & Bash Projects</a>|
 
 
 
